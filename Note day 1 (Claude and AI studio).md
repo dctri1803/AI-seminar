@@ -1,6 +1,6 @@
 # AI Studio  
 - **Đọc tài liệu**: Hỗ trợ dịch thô văn bản.  
-- **Xử lý file**: Khi upload file, hệ thống sẽ lưu vào **drive VTI**.  
+- **Xử lý file**: Khi upload file, hệ thống sẽ lưu vào **drive**.  
 - **Cấu hình AI**:  
   - Temperature đặt **0.3** để đảm bảo độ chính xác cao.  
   - Sử dụng **Gemini 2.0 Flash Thinking Experimental**.  
